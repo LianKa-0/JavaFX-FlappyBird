@@ -1,0 +1,20 @@
+fapbirb/sprites/Pipe.java
+ fapbirb.sprites.Pipe
+fapbirb/sprites/SpiteBase.java
+ fapbirb.sprites.SpiteBase
+fapbirb/sprites/Birb.java
+ fapbirb.sprites.Birb
+fapbirb/Main.java
+ fapbirb.Main
+fapbirb/scenes/SceneTemp.java
+ fapbirb.scenes.SceneTemp
+fapbirb/scenes/App.java
+ fapbirb.scenes.App
+ fapbirb.scenes.App$1
+ fapbirb.scenes.App$Scenes
+fapbirb/scenes/Score.java
+ fapbirb.scenes.Score
+ fapbirb.scenes.Score$Speed
+fapbirb/scenes/Game.java
+ fapbirb.scenes.Game
+ fapbirb.scenes.Game$1
